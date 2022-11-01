@@ -1,0 +1,201 @@
+.nav{
+    display:grid;
+    grid-template-columns: auto auto auto ;
+}
+
+
+
+header.Index{
+    display:flex;
+    flex-direction:row;
+    font-size:x-large;
+    margin-top:0px;
+    display:block;
+    border-style:ridge;
+    border-color:blueviolet;
+    color:white;
+    background-color:black;
+}
+
+
+
+p.Index{
+    display:inline;
+    color:white;
+}
+
+img.Index{
+    margin-top:10vh;
+    display:inline;
+    margin-left:40vw;
+
+}
+
+h1.Index{
+    text-align: center;
+    font-size:90px;
+    display:inline;
+}
+
+ul.Index{
+    list-style: none;
+    display:inline-block;
+}
+
+ul li::before{
+    content:"\2022";
+    color:blue;
+    display:inline;
+}
+
+hr.Index{
+    Width:500px;
+    margin-left:10vw;
+}
+
+div.Index{
+    display:inline-block;
+}
+
+span.Index1{
+    display:inline-flex;
+    align-items:baseline;
+}
+
+img.Index1{
+    width:4vw;
+    display:block;
+}
+
+
+
+div.Index1{
+    display:grid;
+    grid-template-columns:4vw auto auto;
+    
+    
+}
+
+img.Index2{
+    width:3vw;
+}
+
+div.Index2{
+    display:grid;
+    grid-template-columns: 4vw auto auto;
+    margin-left:0.5vw;
+    margin-top:1vh;
+}
+
+img.Index3{
+    width:4vw;
+    
+}
+
+img.Index4{
+    margin-top:1vh;
+    width:3vw;
+    margin-bottom:0.5vw;
+    margin-left:0.6vw;
+    
+}
+
+article.Opinion{
+    margin-top:15vh;
+    font-size:3vw;
+    text-align:center;
+    color:grey;
+}
+
+img.Opinion{
+    width:45vw;
+    margin-left:25vw;
+}
+
+p.Opinion{
+    font-size:1.5vw;
+    text-align:center;
+}
+
+article.Business{
+    text-align:center;
+    font-size:3vw;
+    margin-top:15vh;
+    color:darkgoldenrod;
+}
+
+img.Business{
+    width:75vw;
+    margin-left:12vw;
+}
+
+aside.Opinion {
+    width: 15%;
+    padding-left: 15px;
+    margin-left: 15px;
+    
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  }
+
+#Opinion{
+    margin-left:82vw;
+}
+
+p.Business{
+    text-align:center;
+    font-size:1.33vw;
+}
+
+article.Business1{
+    color:brown;
+    font-size:3vw;
+    text-align:center;
+}
+
+img.Business1{
+    width:60vw;
+    margin-left:16vw;
+}
+
+aside.Business{
+    width: 35%;
+    margin:auto;
+    float: center;
+    font-style: italic;
+    background-color: lightgray;
+}
+
+figure.Business{
+    margin-left:30vw;
+    width:3vw;
+}
+
+article.Entertainment{
+    font-size:2.5vw;
+    color:burlywood;
+    text-align:center;
+    margin-top:6vh;
+
+}
+
+img.Entertainment{
+    margin-left:27vw;
+    width:45vw;
+}
+
+img.Entertainment1{
+    width:50vw;
+    Height:35vh;
+    margin-left:22vw;
+}
+
+
+
+
+
+
+
+
+
